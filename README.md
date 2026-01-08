@@ -7,10 +7,6 @@ Data Analyst with strong experience using SQL, Excel, and Power BI to transform 
 ## 📁 Featured Projects
 
 ### 🍽️ Restaurant Menu & Order Analysis (SQL)
-**Tool:** PostgreSQL  
-- Analyzed menu and order data to uncover customer purchasing patterns, item popularity, pricing trends, and revenue performance  
-- Identified top- and low-performing menu items and high-value orders  
-- Delivered data-driven insights to support menu optimization and pricing decisions  
 
 👉 **Repository:** `Restaurant-Sales-SQL-Analysis` 
 
