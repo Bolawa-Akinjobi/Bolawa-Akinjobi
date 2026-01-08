@@ -14,4 +14,4 @@ Data Analyst with strong experience using SQL, Excel, and Power BI to transform 
 - **GitHub:** Explore my repositories below ⬇️  
 - **LinkedIn:** (www.linkedin.com/in/bolawa-akinjobi-b48609167)
 
-⭐ Feel free to explore my projects and reach out — I’m always open to learning and collaboration!
+⭐ Feel free to explore my projects and reach out — I’m always open to work and collaborate!
