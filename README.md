@@ -1,22 +1,23 @@
 # 👋 Hi, I’m Bolawa Akinjobi
 
-| 📊 Data Analyst | SQL • Excel • Power BI |
-|--------------------------------|
-| Data Analyst with strong experience using **SQL, Excel, and Power BI** to transform raw data into actionable insights that support strategic business decision-making. Skilled in working with structured datasets to identify trends, patterns, and performance opportunities through thoughtful analysis and well-defined business questions. I deliver clear, data-driven findings through reports and dashboards that enable stakeholders across **business, healthcare, manufacturing, finance, sales, and customer-focused environments** to make informed decisions. |
+| 📊 Role & Tools | 👤 Professional Summary |
+|----------------|-------------------------|
+| **Data Analyst**  <br> SQL • Excel • Power BI | Data Analyst with strong experience using **SQL, Excel, and Power BI** to transform raw data into actionable insights that support strategic business decision-making. Skilled in analyzing structured datasets to uncover trends, patterns, and performance opportunities. I deliver clear, data-driven findings through reports and dashboards that enable stakeholders across **business, healthcare, manufacturing, finance, sales, and customer-focused environments** to make informed decisions. |
 
 ---
 
-| 📁 Featured Project |
-|-------------------|
-| 🍽️ **Restaurant Menu & Order Analysis (SQL)**  <br><br> A comprehensive SQL analysis of restaurant menu and order data to uncover customer purchasing behavior, item popularity, pricing trends, and revenue performance.  <br><br> 👉 **Repository:** `Restaurant-Sales-SQL-Analysis` |
+| 📁 Featured Project | 📈 Project Focus |
+|-------------------|-----------------|
+| 🍽️ **Restaurant Menu & Order Analysis (SQL)** | Customer behavior analysis, item popularity, pricing trends, and revenue performance |
+| 👉 **Repository:** `Restaurant-Sales-SQL-Analysis` | Business-driven insights using SQL |
 
 ---
 
-| 📬 Let’s Connect |
-|-----------------|
-| **GitHub:** Explore my repositories below ⬇️  <br> **LinkedIn:** [Bolawa Akinjobi](https://www.linkedin.com/in/bolawa-akinjobi-b48609167) |
+| 📬 Connect With Me | 🌐 Professional Links |
+|------------------|----------------------|
+| Open to work and collaboration | **LinkedIn:** [Bolawa Akinjobi](https://www.linkedin.com/in/bolawa-akinjobi-b48609167) |
+| Explore my repositories below ⬇️ | **GitHub:** See pinned projects |
 
 ---
 
-⭐ Feel free to explore my projects and reach out — I’m always open to work and collaboration!
-
+⭐ Feel free to explore my projects and reach out — I’m always open to collaboration and new opportunities!
